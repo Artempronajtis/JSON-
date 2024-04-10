@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/9n6kc09yrl7xgw0g?svg=true)](https://ci.appveyor.com/project/Artempronajtis/json-ykdbl)
+[![Build status](https://ci.appveyor.com/api/projects/status/araxn3nma5otfrhp?svg=true)](https://ci.appveyor.com/project/Artempronajtis/json-8d5wy)
